@@ -7,6 +7,7 @@ import SkillsSection from '../components/case/SkillsSection';
 import TechStackSection from '../components/case/TechStackSection';
 import AIBusinessSection from '../components/case/AIBusinessSection';
 import SEOMagicSection from '../components/case/SEOMagicSection';
+import RAGPlatformSection from '../components/case/RAGPlatformSection';
 import NutritionAppSection from '../components/case/NutritionAppSection';
 import RunaAISection from '../components/case/RunaAISection';
 import DiscountBotSection from '../components/case/DiscountBotSection';
@@ -45,6 +46,7 @@ export default function Home() {
         <TechStackSection />
         <AIBusinessSection />
         <SEOMagicSection />
+        <RAGPlatformSection />
         <NutritionAppSection />
         <RunaAISection />
         <DiscountBotSection />

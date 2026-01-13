@@ -38,7 +38,7 @@ export default function NutritionAppSection() {
           >
             <div className="flex items-center gap-4 mb-4">
               <Dumbbell className="w-6 h-6 text-green-500" />
-              <span className="text-green-500 font-mono text-sm tracking-wider">CASE_03</span>
+              <span className="text-green-500 font-mono text-sm tracking-wider">CASE_04</span>
             </div>
             <h2 className="text-4xl lg:text-5xl font-bold mb-4">
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-blue-500 to-cyan-500">

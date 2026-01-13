@@ -30,7 +30,7 @@ export default function DiscountBotSection() {
           >
             <div className="flex items-center gap-4 mb-4">
               <Gift className="w-6 h-6 text-pink-500" />
-              <span className="text-pink-500 font-mono text-sm tracking-wider">CASE_05</span>
+              <span className="text-pink-500 font-mono text-sm tracking-wider">CASE_06</span>
             </div>
             <h2 className="text-4xl lg:text-5xl font-bold mb-4">
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-500 to-pink-600">

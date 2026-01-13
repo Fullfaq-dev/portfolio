@@ -29,7 +29,7 @@ export default function LandingsSection() {
 
             <div className="flex items-center gap-4 mb-4">
               <Code className="w-6 h-6 text-orange-500" />
-              <span className="text-orange-500 font-mono text-sm tracking-wider">CASE_06</span>
+              <span className="text-orange-500 font-mono text-sm tracking-wider">CASE_07</span>
             </div>
             <h2 className="text-4xl lg:text-5xl font-bold mb-4">
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-500 via-red-500 to-orange-600">
