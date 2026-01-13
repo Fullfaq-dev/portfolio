@@ -54,7 +54,7 @@ export default function SEOMagicSection() {
           >
             <div className="flex items-center gap-4 mb-4">
               <Sparkles className="w-6 h-6 text-purple-500" />
-              <span className="text-purple-500 font-mono text-sm tracking-wider">PORTFOLIO_02</span>
+              <span className="text-purple-500 font-mono text-sm tracking-wider">CASE_02</span>
             </div>
             <h2 className="text-4xl lg:text-5xl font-bold mb-4">
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 via-pink-500 to-blue-500">

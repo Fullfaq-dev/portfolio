@@ -1,16 +1,16 @@
 import React, { useEffect, useState } from 'react';
 import { motion, useScroll } from 'framer-motion';
-import HeroSection from '../components/portfolio/HeroSection';
-import AboutSection from '../components/portfolio/AboutSection';
-import VibeCodingSection from '../components/portfolio/VibeCodingSection';
-import SkillsSection from '../components/portfolio/SkillsSection';
-import TechStackSection from '../components/portfolio/TechStackSection';
-import AIBusinessSection from '../components/portfolio/AIBusinessSection';
-import SEOMagicSection from '../components/portfolio/SEOMagicSection';
-import NutritionAppSection from '../components/portfolio/NutritionAppSection';
-import RunaAISection from '../components/portfolio/RunaAISection';
-import DiscountBotSection from '../components/portfolio/DiscountBotSection';
-import LandingsSection from '../components/portfolio/LandingsSection';
+import HeroSection from '../components/case/HeroSection';
+import AboutSection from '../components/case/AboutSection';
+import VibeCodingSection from '../components/case/VibeCodingSection';
+import SkillsSection from '../components/case/SkillsSection';
+import TechStackSection from '../components/case/TechStackSection';
+import AIBusinessSection from '../components/case/AIBusinessSection';
+import SEOMagicSection from '../components/case/SEOMagicSection';
+import NutritionAppSection from '../components/case/NutritionAppSection';
+import RunaAISection from '../components/case/RunaAISection';
+import DiscountBotSection from '../components/case/DiscountBotSection';
+import LandingsSection from '../components/case/LandingsSection';
 
 import Footer from '../components/Footer';
 

@@ -56,7 +56,7 @@ export default function AIBusinessSection() {
           >
             <div className="flex items-center gap-4 mb-4">
               <Layers className="w-6 h-6 text-green-500" />
-              <span className="text-green-500 font-mono text-sm tracking-wider">PORTFOLIO_01</span>
+              <span className="text-green-500 font-mono text-sm tracking-wider">CASE_01</span>
             </div>
             <h2 className="text-4xl lg:text-5xl font-bold mb-4">
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-emerald-500 to-teal-500">

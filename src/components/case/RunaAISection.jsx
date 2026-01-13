@@ -30,7 +30,7 @@ export default function RunaAISection() {
             >
             <div className="flex items-center gap-4 mb-4">
               <MessageSquare className="w-6 h-6 text-cyan-500" />
-              <span className="text-cyan-500 font-mono text-sm tracking-wider">PORTFOLIO_04</span>
+              <span className="text-cyan-500 font-mono text-sm tracking-wider">CASE_04</span>
             </div>
             <h2 className="text-4xl lg:text-6xl font-bold mb-3">
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 via-blue-500 to-purple-500">
