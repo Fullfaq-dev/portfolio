@@ -12,6 +12,7 @@ import NutritionAppSection from '../components/case/NutritionAppSection';
 import RunaAISection from '../components/case/RunaAISection';
 import DiscountBotSection from '../components/case/DiscountBotSection';
 import LandingsSection from '../components/case/LandingsSection';
+import InteractiveBoard from '../components/case/InteractiveBoard';
 
 import Footer from '../components/Footer';
 
@@ -51,6 +52,7 @@ export default function Home() {
         <RunaAISection />
         <DiscountBotSection />
         <LandingsSection />
+        <InteractiveBoard />
         <Footer />
       </div>
 
