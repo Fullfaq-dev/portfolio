@@ -173,7 +173,7 @@ export default function HeroSection() {
                 <img
                   src="/images/akulov.jpg"
                   alt="Сорокин Александр"
-                  className="w-64 h-64 object-cover scale-125 transition-all duration-500" />
+                  className="w-64 h-64 object-cover scale-100 transition-all duration-500" />
 
                 {/* Scan line effect */}
                 <motion.div
