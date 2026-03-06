@@ -172,7 +172,7 @@ export default function HeroSection() {
               <div className="relative overflow-hidden rounded-lg border-2 border-orange-500/30">
                 <img
                   src="/images/akulov.jpg"
-                  alt="Акулов Сергей"
+                  alt="Сорокин Александр"
                   className="w-64 h-64 object-cover scale-125 transition-all duration-500" />
 
                 {/* Scan line effect */}
@@ -190,7 +190,7 @@ export default function HeroSection() {
             </div>
 
             <div className="text-center space-y-2">
-              <h3 className="text-2xl font-bold text-white">Акулов Сергей</h3>
+              <h3 className="text-2xl font-bold text-white">Сорокин Александр</h3>
               <p className="text-orange-400 font-mono text-sm">backend разработчик, ML </p>
             </div>
           </motion.div>
