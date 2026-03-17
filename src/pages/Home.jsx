@@ -11,6 +11,7 @@ import RAGPlatformSection from '../components/case/RAGPlatformSection';
 import NutritionAppSection from '../components/case/NutritionAppSection';
 import RunaAISection from '../components/case/RunaAISection';
 import DiscountBotSection from '../components/case/DiscountBotSection';
+import ShadowGPTSection from '../components/case/ShadowGPTSection';
 import LandingsSection from '../components/case/LandingsSection';
 import InteractiveBoard from '../components/case/InteractiveBoard';
 
@@ -51,6 +52,7 @@ export default function Home() {
         <NutritionAppSection />
         <RunaAISection />
         <DiscountBotSection />
+        <ShadowGPTSection />
         <LandingsSection />
         <InteractiveBoard />
         <Footer />

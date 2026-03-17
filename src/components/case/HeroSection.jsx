@@ -147,7 +147,7 @@ export default function HeroSection() {
 
             <div className="text-center space-y-2">
               <h3 className="text-2xl font-bold text-white">Кочергин Максим</h3>
-              <p className="text-orange-400 font-mono text-sm">frontend разработчик, LLM, generative AI</p>
+              <p className="text-orange-400 font-mono text-sm">fullstack разработчик, LLM, RAG, generative AI</p>
             </div>
           </motion.div>
 
@@ -191,7 +191,7 @@ export default function HeroSection() {
 
             <div className="text-center space-y-2">
               <h3 className="text-2xl font-bold text-white">Сорокин Александр</h3>
-              <p className="text-orange-400 font-mono text-sm">backend разработчик, ML </p>
+              <p className="text-orange-400 font-mono text-sm">Менеджер и управление проектами</p>
             </div>
           </motion.div>
         </div>
